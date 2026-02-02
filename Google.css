@@ -1,0 +1,48 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+.google{
+    display: block;
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-right: 100px;
+}
+.se{
+    display: block;
+    margin-left: 250px;
+    margin-right: 300px;
+    width: 530px;
+}
+input{
+    width: 507px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.b{
+    display: block;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 30px;
+    margin-bottom: 50px;
+    padding-left: 30px;
+}
+button{
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+button:hover{
+    background-color: aqua;
+}
